@@ -16,4 +16,5 @@
 
 services:
   db:
-    image: supabase/postgres:17.6.1.136
+    #image: supabase/postgres:17.6.1.136
+    image: supabase/postgres:17.6.1.143_amd64
